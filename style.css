@@ -1,0 +1,12 @@
+/*
+theme name: aiforgerun
+description: custom wordpress theme inspired by wireframes in docs folder
+author: brooke
+version: 1.0
+*/
+
+body {
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+  background: #fdfdfd;
+}
